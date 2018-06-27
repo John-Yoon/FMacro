@@ -319,6 +319,8 @@ namespace FMacro
                 Console.WriteLine("우선순위 : {0}", pt.BasePriority);  //스레드 우선순위
                 Console.WriteLine("상태 : {0}", pt.ThreadState);      //스레드 상태
                 Console.WriteLine();
+
+                Console.WriteLine();
             }
         }
     }
